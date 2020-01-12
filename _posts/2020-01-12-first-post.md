@@ -1,7 +1,7 @@
 ---
-title : "Welocome to my Blog!"
-date : 2020-01-12 22:58:45  -0400
-categories : jekyll update
+title: "Welocome to my Blog!"
+date: 2020-01-12 22:58:45  -0400
+categories: jekyll update
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
